@@ -46,9 +46,9 @@ If you find something that is inaccurate, or you want to add something, please s
 * Bill Joy releases Berkeley Software Distribution (BSD) in March 1978.
 * V7 UNIX is released.
 
-### 1981
+### 1979
 
-* 3BSD introduces paging in UNIX [[Babaoglu and Joy, 1981](https://dl.acm.org/citation.cfm?id=806595)].
+* 3BSD is released. Virtual memory is paging-based [[Babaoglu and Joy, 1981](https://dl.acm.org/citation.cfm?id=806595)].
 
 ### 1983
 
