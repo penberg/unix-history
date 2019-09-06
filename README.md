@@ -50,6 +50,14 @@ If you find something that is inaccurate, or you want to add something, please s
 
 * 3BSD is released. Virtual memory is paging-based [[Babaoglu and Joy, 1981](https://dl.acm.org/citation.cfm?id=806595)].
 
+### 1980
+
+* 4.0BSD is released.
+
+### 1981
+
+* 4.1BSD is released.
+
 ### 1983
 
 * 4.2BSD released in September 1983 with networking, new filesystem, redesigned system interface, and new signal interface.
