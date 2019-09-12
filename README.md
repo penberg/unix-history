@@ -25,11 +25,19 @@ If you find something that is inaccurate, or you want to add something, please s
 
 * PDP-11 arrives to Bell Labs and UNIX is ported to it.
 
+### 1971
+
+* 1st Edition UNIX is released in November.
+
+### 1972
+
+* 2nd Edition UNIX is released in June.
+
 ### 1973
 
-* UNIX is rewritten in C.
+* 3rd Edition UNIX is released in February.
 * Ken Thompson presents UNIX at SOSP in October 1973.
-* V4 UNIX is released in November 1973.
+* 4th Edition UNIX is released in November. This is the first version of UNIX written in C.
 
 ### 1974
 
