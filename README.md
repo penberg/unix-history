@@ -56,7 +56,7 @@ If you find something that is inaccurate, or you want to add something, please s
 
 ### 1979
 
-* 3BSD is released. Virtual memory is paging-based [[Babaoglu and Joy, 1981](https://dl.acm.org/citation.cfm?id=806595)].
+* 3BSD is released. The `vfork` system call is introduced. Virtual memory is paging-based [[Babaoglu and Joy, 1981](https://dl.acm.org/citation.cfm?id=806595)].
 
 ### 1980
 
