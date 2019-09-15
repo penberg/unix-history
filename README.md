@@ -82,6 +82,10 @@ If you find something that is inaccurate, or you want to add something, please s
 * IEEE Std 1003.1-1988 ("POSIX") released in 1988.
 * SunOS 4.0 is released in December 1988. Virtual memory subsystem is rewritten to support shared-memory with `mmap` [[Gingell _et al._, 1987]](http://kos.enix.org/pub/gingell8.pdf).
 
+### 1989
+
+* System V Release 4 (SRv4) is released.
+
 ### 1990
 
 * 4.3BSD-Reno is released.
