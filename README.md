@@ -112,7 +112,7 @@ If you find something that is inaccurate, or you want to add something, please s
 
 ## References
 
-* [The Unix Heritage Society](The Unix Heritage Society)
+* [The Unix Heritage Society](https://www.tuhs.org/)
 * Marshall Kirk McKusick, Keith Bostic, Michael J. Karels, and John Quarterman. [The Design and Implementation of the 4.4 BSD Operating System ](https://www.amazon.com/Implementation-Operating-paperback-Addison-wesley-Systems/dp/0132317923). 1996.
 * Michael Kerrisk. [The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/Linux-Programming-Interface-System-Handbook-ebook/dp/B004OEJMZM). 2010.
 * Marshall Kirk McKusick. [Twenty Years of Berkeley Unix - From AT&T-Owned to Freely Redistributable](https://www.oreilly.com/openbook/opensources/book/kirkmck.html). 1999.
