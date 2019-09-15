@@ -35,7 +35,7 @@ If you find something that is inaccurate, or you want to add something, please s
 
 ### 1973
 
-* 3rd Edition UNIX is released in February.
+* 3rd Edition UNIX is released in February. The `pipe` system call is introduced.
 * Ken Thompson presents UNIX at SOSP in October 1973.
 * 4th Edition UNIX is released in November. This is the first version of UNIX written in C.
 
