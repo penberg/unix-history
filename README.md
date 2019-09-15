@@ -68,7 +68,7 @@ If you find something that is inaccurate, or you want to add something, please s
 
 ### 1983
 
-* 4.2BSD released in September 1983 with networking, new filesystem, redesigned system interface, and new signal interface. The 4.2BSD release also introduces the `mmap` system call interface, but does not implement it fully [[Gingell _et al._, 1987]](http://kos.enix.org/pub/gingell8.pdf).
+* 4.2BSD released in September 1983 with networking (BSD sockets), new filesystem, redesigned system interface, and new signal interface. The 4.2BSD release also introduces the `mmap` system call interface, but does not implement it fully [[Gingell _et al._, 1987]](http://kos.enix.org/pub/gingell8.pdf).
 
 ### 1986
 
