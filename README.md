@@ -77,7 +77,7 @@ If you find something that is inaccurate, or you want to add something, please s
 
 ### 1987
 
-* SVR3 Unix is released. The `poll` system call is introduced [[Stenberg, 2019](https://daniel.haxx.se/docs/poll-vs-select.html), [OpenBSD man page](https://man.openbsd.org/poll.2#HISTORY)].
+* SVR3 Unix is released. The `poll` system call is introduced [[Stenberg, 2019](https://daniel.haxx.se/docs/poll-vs-select.html); [OpenBSD man page](https://man.openbsd.org/poll.2#HISTORY); AT&T, 1987].
 
 ## UNIX and POSIX
 
@@ -121,6 +121,7 @@ If you find something that is inaccurate, or you want to add something, please s
 
 ## References
 
+* AT&T. UNIX System V Programmers Reference Manual. 1987.
 * [System V Definition](http://www.linfo.org/system_v.html)
 * [The Unix Heritage Society](https://www.tuhs.org/)
 * Marshall Kirk McKusick, Keith Bostic, Michael J. Karels, and John Quarterman. [The Design and Implementation of the 4.4 BSD Operating System ](https://www.amazon.com/Implementation-Operating-paperback-Addison-wesley-Systems/dp/0132317923). 1996.
