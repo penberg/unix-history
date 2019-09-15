@@ -68,12 +68,13 @@ If you find something that is inaccurate, or you want to add something, please s
 
 ### 1983
 
-* 4.2BSD released in September 1983 with networking (BSD sockets), new filesystem, redesigned system interface, and new signal interface. The 4.2BSD release also introduces the `mmap` system call interface, but does not implement it fully [[Gingell _et al._, 1987]](http://kos.enix.org/pub/gingell8.pdf).
+* 4.2BSD released in September 1983 with networking (BSD sockets), new filesystem, redesigned system interface, and new signal interface. The `select` system call is also introduced [[Stenberg, 2019](https://daniel.haxx.se/docs/poll-vs-select.html)]. The 4.2BSD release also introduces the `mmap` system call interface, but does not implement it fully [[Gingell _et al._, 1987]](http://kos.enix.org/pub/gingell8.pdf).
 * UNIX System V Release 1 is released. Interprocess communications (IPC) (semaphores, message queues and shared memory) were added [[System V Definition](http://www.linfo.org/system_v.html)].
 
 ### 1986
 
 * 4.3BSD released.
+* SVR3 Unix is released. The `poll` system call is introduced [[Stenberg, 2019](https://daniel.haxx.se/docs/poll-vs-select.html)].
 
 ## UNIX and POSIX
 
@@ -124,3 +125,4 @@ If you find something that is inaccurate, or you want to add something, please s
 * Marshall Kirk McKusick. [Twenty Years of Berkeley Unix - From AT&T-Owned to Freely Redistributable](https://www.oreilly.com/openbook/opensources/book/kirkmck.html). 1999.
 * Eric S. Raymond [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/). 2003.
 * Peter H. Salus. [A Quarter Century of UNIX](https://www.amazon.com/Quarter-Century-UNIX-Peter-Salus/dp/0201547775). 1994.
+* Daniel Stenberg. [poll vs select vs event-based](https://daniel.haxx.se/docs/poll-vs-select.html). 2019
