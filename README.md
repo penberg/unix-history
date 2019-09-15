@@ -74,7 +74,10 @@ If you find something that is inaccurate, or you want to add something, please s
 ### 1986
 
 * 4.3BSD released.
-* SVR3 Unix is released. The `poll` system call is introduced [[Stenberg, 2019](https://daniel.haxx.se/docs/poll-vs-select.html)].
+
+### 1987
+
+* SVR3 Unix is released. The `poll` system call is introduced [[Stenberg, 2019](https://daniel.haxx.se/docs/poll-vs-select.html), [[OpenBSD man page](https://man.openbsd.org/poll.2#HISTORY)]].
 
 ## UNIX and POSIX
 
