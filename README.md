@@ -68,7 +68,7 @@ If you find something that is inaccurate, or you want to add something, please s
 
 ### 1983
 
-* 4.2BSD released in September 1983 with networking (BSD sockets), new filesystem, redesigned system interface, and new signal interface. The `select` system call is also introduced [[Stenberg, 2019](https://daniel.haxx.se/docs/poll-vs-select.html)]. The 4.2BSD release also introduces the `mmap` system call interface, but does not implement it fully [[Gingell _et al._, 1987]](http://kos.enix.org/pub/gingell8.pdf).
+* 4.2BSD released in September 1983 with networking (BSD sockets), new filesystem, redesigned system interface, and new signal interface. The `select` system call is also introduced [[Stenberg, 2019](https://daniel.haxx.se/docs/poll-vs-select.html)]. The 4.2BSD release also introduces the `fsync` system call and the `mmap` system call, although the latter is not implemented fully [[Gingell _et al._, 1987]](http://kos.enix.org/pub/gingell8.pdf).
 * UNIX System V Release 1 is released. Interprocess communications (IPC) (semaphores, message queues and shared memory) were added [[System V Definition](http://www.linfo.org/system_v.html)].
 
 ### 1986
