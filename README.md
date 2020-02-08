@@ -106,7 +106,7 @@ If you find something that is inaccurate, or you want to add something, please s
 ### 1993
 
 * 4.4BSD released. Last major Berkeley UNIX release.
-* POSIX.1b released: Asynchronous I/O, process scheduling, high-precision clocks and timers, and interprocess communication using semaphores, shared memory, and message queues (now deprecated).
+* POSIX.1b released: Asynchronous I/O, process scheduling, high-precision clocks and timers, and interprocess communication using semaphores, shared memory, and message queues.
 
 ### 1995
 
