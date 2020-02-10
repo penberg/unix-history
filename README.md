@@ -85,7 +85,7 @@ If you find something that is inaccurate, or you want to add something, please s
 
 * 4.3BSD-Tahoe is released.
 * IEEE Std 1003.1-1988 ("POSIX") released in 1988.
-* SunOS 4.0 is released in December 1988. Virtual memory subsystem is rewritten to support shared-memory with `mmap` [[Gingell _et al._, 1987]](http://kos.enix.org/pub/gingell8.pdf).
+* SunOS 4.0 is released in December 1988. Virtual memory subsystem is rewritten to support shared-memory with `mmap` [[Gingell _et al._, 1987]](http://kos.enix.org/pub/gingell8.pdf). Gingell _et al._ mention Multics file/process memory integration and TENEX page-based VM in historical acknowledgements.
 
 ### 1989
 
